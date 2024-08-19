@@ -27,3 +27,22 @@ Key points
 
 Deliverables
 Silakan fork repository ini dan submit link repository hasil pengerjaan Anda ke https://bit.ly/study-case-backend-developer-msib
+
+---
+Cara Menjalankan Proyek:
+
+1. Unduh Proyek: Download atau clone repository proyek.
+2. Buka Terminal: Buka terminal atau command prompt, lalu arahkan ke direktori tempat proyek berada.
+3. Setup Backend:
+   - Arahkan terminal ke folder `backend`.
+   - Jalankan perintah berikut untuk menginstall dependensi:
+     `npm install`
+   - Setelah instalasi selesai, jalankan server backend dengan:
+     `nodemon index`
+4. Setup Frontend:
+   - Buka terminal baru dan arahkan ke folder `frontend`.
+   - Jalankan perintah berikut untuk menginstall dependensi:
+     `npm install`
+   - Setelah instalasi selesai, jalankan server frontend dengan:
+     `npm start`
+
